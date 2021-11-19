@@ -1,4 +1,4 @@
-onst pro = require("prompt-sync");
+const pro = require("prompt-sync");
  const prompt = pro();
 
 let number = prompt("Enter a Number : ");  
